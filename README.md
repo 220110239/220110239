@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdallah Esam Daban. I'm a second year computer science student in Prince Sultan University.
+- 👋 Hi, I’m Abdallah Esam Daban. I'm a third year computer science student in Prince Sultan University.
 - 👀 I’m interested in Machine learning, Artificial Intelligence, and Data Science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
